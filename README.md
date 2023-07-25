@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @azeemprogrammer
+- 👋 Hi, I’m Azeem Akhtar (عطیم اختر)
 - 👀 I’m interested in Python, Machine Learning, Deep Learning, Data Science, Django, Artificial Intelligence
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Python, Machine Learning, Deep Learning, Data Science, Django, Artificial Intelligence Projects
