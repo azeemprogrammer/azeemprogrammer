@@ -15,7 +15,7 @@ If you share similar interests in Python, Machine Learning, Deep Learning, Data 
 I'm eager to connect and help, though I might be immersed in my learning journey at the moment. Nevertheless, don't hesitate to reach out, and I'll get back to you as soon as possible.
 
 - Email: Update Very Soon!
-- LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/in/azeemprogrammer1/)
+- LinkedIn: [LinkedInProfile](https://www.linkedin.com/in/azeemprogrammer1/)
 - Blog: [Medium](https://medium.com/@azeemprogrammer)
 
 ## 📝 My Blog
